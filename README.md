@@ -9,7 +9,8 @@
 - 📫 How to reach me **amashinayonika.98@gmail.com**
 
 - ⚡ Fun fact **Time compiles faster than my code! 😄**
-
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mashiama&label=Profile%20views&color=0e75b6&style=flat" alt="mashiama" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,8 +18,9 @@
 <a href="https://medium.com/@mashiama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mashiama" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mashiama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mashiama" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mashiama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mashiama" height="30" width="40" /></a>
-</p>
+</p><br>
 
+<h3 align="left">Technical Skills</h3>
 <table align="center">
   <tr>
     <td align="center" valign="top">
