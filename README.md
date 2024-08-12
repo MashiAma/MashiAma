@@ -161,5 +161,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashiama&show_icons=true&locale=en" alt="mashiama" /></p>
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/MashiAma/MashiAma/dist/github-contribution-grid-snake.svg)
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MashiAma/MashiAma/output/snake.svg" alt="Snake animation" />
+
+###
 
