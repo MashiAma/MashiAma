@@ -162,9 +162,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashiama&show_icons=true&locale=en" alt="mashiama" /></p>
 
 
-<br clear="both">
+<!-- <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MashiAma/MashiAma/output/snake.svg" alt="Snake animation" />
+<!--- <img src="https://raw.githubusercontent.com/MashiAma/MashiAma/output/snake.svg" alt="Snake animation" />
 
 ###
 
